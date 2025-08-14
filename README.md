@@ -1,2 +1,2 @@
 # data-cleaning-practice
-This repository contains my practice work on data cleaning using a sample dataset. The data was generated for learning purposes.
+This repository contains my data cleaning practice work using Google Sheets. The dataset is dummy and for learning purposes only.
