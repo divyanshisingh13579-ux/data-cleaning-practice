@@ -43,7 +43,7 @@ Below are screenshots from the projet:
 **Dataset 1**
 [Raw Data Screenshot] (https://github.com/divyanshisingh13579-ux/data-cleaning-practice/blob/main/images/dataset1_raw.png?raw=true)
 [Clean Data Screenshot] (https://github.com/divyanshisingh13579-ux/data-cleaning-practice/blob/main/images/dataset1_clean.png?raw=true)
-[Documentation 1 Screenshot] ()
+[Documentation 1 Screenshot] (https://github.com/divyanshisingh13579-ux/data-cleaning-practice/blob/main/images/dataset1_documentation.png?raw=true)
 
 **Dataset 2**
 [Raw Data Screenshot] ()
