@@ -48,7 +48,7 @@ Below are screenshots from the projet:
 **Dataset 2**
 - [Raw Data Screenshot] (https://github.com/divyanshisingh13579-ux/data-cleaning-practice/blob/main/images/dataset2_raw.png?raw=true)
 - [Clean Data Screenshot] (https://github.com/divyanshisingh13579-ux/data-cleaning-practice/blob/main/images/dataset2_clean.png?raw=true)
-- [Documentation 2 Screenshot] ()
+- [Documentation 2 Screenshot] (https://github.com/divyanshisingh13579-ux/data-cleaning-practice/blob/main/images/dataset2_documentation.png?raw=true)
 
 **Key Learnings**
 - Improved skills in data cleaning & preprocessing
