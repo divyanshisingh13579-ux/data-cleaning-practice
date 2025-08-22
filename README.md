@@ -41,10 +41,14 @@ https://docs.google.com/spreadsheets/d/19q6brgvglKfW6FIs0SZGwqll81PFMaCmQ_lPr97x
 Below are screenshots from the projet:
 
 **Dataset 1**
-https://github.com/divyanshisingh13579-ux/data-cleaning-practice/blob/main/images/dataset1_raw.png?raw=true
+[Raw Data Screenshot] (https://github.com/divyanshisingh13579-ux/data-cleaning-practice/blob/main/images/dataset1_raw.png?raw=true)
+[Clean Data Screenshot] (https://github.com/divyanshisingh13579-ux/data-cleaning-practice/blob/main/images/dataset1_clean.png?raw=true)
+[Documentation 1 Screenshot] ()
 
 **Dataset 2**
-
+[Raw Data Screenshot] ()
+[Clean Data Screenshot] ()
+[Documentation 2 Screenshot] ()
 
 **Key Learnings**
 - Improved skills in data cleaning & preprocessing
