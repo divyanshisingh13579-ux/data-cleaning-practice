@@ -42,20 +42,6 @@
 (https://docs.google.com/spreadsheets/d/19q6brgvglKfW6FIs0SZGwqll81PFMaCmQ_lPr97x9t8/edit?usp=sharing)
 <br>
 
-### 👀 **Preview**
-Below are screenshots from the projet:
-
-#### **Dataset 1️⃣**
-- 🔗 [Raw Data Screenshot] <br> (https://github.com/divyanshisingh13579-ux/data-cleaning-practice/blob/main/images/dataset1_raw.png?raw=true)
-- 🔗 [Clean Data Screenshot] <br> (https://github.com/divyanshisingh13579-ux/data-cleaning-practice/blob/main/images/dataset1_clean.png?raw=true)
-- 🔗 [Documentation 1 Screenshot] <br> (https://github.com/divyanshisingh13579-ux/data-cleaning-practice/blob/main/images/dataset1_documentation.png?raw=true)
-
-#### **Dataset 2️⃣**
-- 🔗 [Raw Data Screenshot] <br> (https://github.com/divyanshisingh13579-ux/data-cleaning-practice/blob/main/images/dataset2_raw.png?raw=true)
-- 🔗 [Clean Data Screenshot] <br> (https://github.com/divyanshisingh13579-ux/data-cleaning-practice/blob/main/images/dataset2_clean.png?raw=true)
-- 🔗 [Documentation 2 Screenshot] <br> (https://github.com/divyanshisingh13579-ux/data-cleaning-practice/blob/main/images/dataset2_documentation.png?raw=true)
-<br>
-
 ### 🔑 **Key Learnings**
 - 📈 Improved skills in data cleaning & preprocessing
 - 📝 Learned how to document each step clearly
